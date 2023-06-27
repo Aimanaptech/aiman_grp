@@ -2,3 +2,19 @@
     margin: 0px;
     padding: 0px;
 }
+.nav_color{
+    background-color: orange;
+    font-family: initial;
+    font-size: large;
+}
+.navhovr:hover{
+    text-decoration: underline;    
+}
+.p{
+    padding-left: 10px;
+}
+.hovrorange:hover{
+    background-color: orange;
+    color: black;
+    text-decoration: underline;
+}
